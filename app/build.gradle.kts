@@ -1,4 +1,4 @@
-import com.google.gms.googleservices.GoogleServicesPlugin.MissingGoogleServicesStrategy
+
 
 plugins {
   alias(libs.plugins.android.application)
@@ -14,7 +14,7 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.erna_assistant.bcrkly"
+    applicationId = "dynasync.de"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
