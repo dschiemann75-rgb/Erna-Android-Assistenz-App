@@ -1,0 +1,6 @@
+{
+  "name": "Erna",
+  "description": "Erna is a futuristic personal AI assistant with advanced voice recognition, text-to-speech feedback, and local memory SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
